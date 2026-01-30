@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: backend-conatiner
-        image: aakkiiff/goals_project_backend:phase4-demo
+        image: sabirsaheel0/goalsphase4demobackend:0.1
         resources:
           limits:
             memory: "128Mi"
